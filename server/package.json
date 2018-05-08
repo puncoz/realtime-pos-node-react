@@ -1,0 +1,28 @@
+{
+  "name": "realtime-pos-node-react-server",
+  "version": "1.0.0",
+  "description": "Realtime POS system in NodeJS and ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puncoz/realtime-pos-node-react.git"
+  },
+  "keywords": [
+    "real-time",
+    "pos",
+    "nodejs",
+    "reactjs",
+    "socketio",
+    "nedb",
+    "express"
+  ],
+  "author": "Puncoz Nepal <info@puncoz.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puncoz/realtime-pos-node-react/issues"
+  },
+  "homepage": "https://github.com/puncoz/realtime-pos-node-react#readme"
+}
